@@ -1,0 +1,7 @@
+python==3.8.3
+django==3.0.3
+bs4==4.9.1
+djangorestframework==3.11.1
+requests==2.24.0
+lxml==4.5.2
+django-bootstrap4==2.2.0
