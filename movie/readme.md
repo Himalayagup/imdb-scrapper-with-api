@@ -1,6 +1,6 @@
 -> This projects scrappes the IMDb Website's movie listing and store them in local database(SQLite3).
 -> It accepts any url of IMDb such as (https://www.imdb.com/chart/top/)
--> It is necessary to provide ```https://``` in the url
+-> It is necessary to provide ```http://``` or ```https://``` in the url
 
 
 (To view APIs token authentication is required)
